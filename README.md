@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Auto&height=300&section=header&text=Hellow%20&fontSize=90&fontColor=d6ace6&desc=here%20is%20my%20Git&descsize=10&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHOISEOKJAE%20&fontSize=90&fontColor=a1ace6&desc=Welcome%20to%20my%20Git😀&descsize=50&descAlignY=90)
 
-🖥 Study
+🖥 Study 🖥 
 
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=Java&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=Java&logoColor=yellow"/>
 <br/>
 <br/>
 <br/>
