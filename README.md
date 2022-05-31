@@ -2,8 +2,9 @@
 
 🖥 Study
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  #
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=Java&logoColor=yellow"/>
 <br/>
 <br/>
 <br/>
