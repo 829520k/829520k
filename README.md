@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=CHOISEOKJAE%20&fontSize=70&desc=Welcome%20to%20my%20Git😀&animation=twinkling&descsize=50&descAlignY=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=300&section=header&text=CHOISEOKJAE%20&textcolor=white&fontSize=70&desc=Welcome%20to%20my%20Git&fontColor=ffffff&animation=twinkling&descsize=50&descAlignY=90)
 
 
 <div align="center">🛠 Tech Stack and Study 🖥 </div>
