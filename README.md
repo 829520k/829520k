@@ -6,11 +6,14 @@
 <br/>
 <br/>
 <div align="center"></a>
-<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=Java&logoColor=yellow"/ style="max-width: 100%;">
+<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=java&logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" style="max-width: 100%;">
+
 </div>
 <br/>
 <br/>
